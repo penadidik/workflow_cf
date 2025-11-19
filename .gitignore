@@ -1,0 +1,9 @@
+cat <<EOF > .gitignore
+node_modules
+dist
+.DS_Store
+.env
+.env.*
+*.log
+EOF
+
